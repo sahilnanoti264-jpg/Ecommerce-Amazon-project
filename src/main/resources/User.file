@@ -1,0 +1,28 @@
+User = normal customer
+
+Jo app use karta hai:
+
+User kya kar sakta hai:
+Register / Login
+Products dekhna
+Cart me add karna
+Order place karna
+Apne orders dekhna
+Profile update karna
+Simple example:
+
+👉 Tum Flipkart use kar rahe ho = tum USER ho
+
+🧑‍💼 ADMIN kya hota hai?
+
+Admin = system owner / seller side control
+
+Admin kya kar sakta hai:
+Product add karna
+Product update/delete karna
+All users dekhna
+All orders manage karna
+Order status change karna (SHIPPED, DELIVERED)
+Simple example:
+
+👉 Flipkart wala jo products upload karta hai = ADMIN

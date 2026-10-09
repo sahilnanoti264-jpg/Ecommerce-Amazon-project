@@ -1,0 +1,52 @@
+src/main/java/com/example/ecommerce
+
+
+├── controller
+│   ├── UserController
+│   ├── ProductController
+│   ├── CartsController
+│   ├── OrderController
+│   └── PaymentController
+│
+├── service
+│   ├── UserService
+│   ├── ProductService
+│   ├── CartService
+│   ├── OrderService
+│   └── PaymentService
+│
+├── repository
+│   ├── UserRepository
+│   ├── AddressRepository
+│   ├── ProductRepository
+│   ├── CartRepository
+│   ├── CartItemRepository
+│   ├── OrderRepository
+│   ├── OrderItemRepository
+│   └── PaymentRepository
+│
+├── entity
+│   ├── User
+│   ├── Address
+│   ├── Product
+│   ├── Cart
+│   ├── CartItem
+│   ├── Order
+│   ├── OrderItem
+│   └── Payment
+│
+├── dto
+│   ├── UserDto
+│   ├── ProductDto
+│   ├── CartDto
+│   ├── OrderDto
+│   └── PaymentDto
+│
+├── exception
+│   ├── ResourceNotFoundException
+│   └── GlobalExceptionHandler
+│
+├── config
+│   └── AppConfig
+│
+└── EcommerceApplication
